@@ -2,8 +2,8 @@
 //  QuickSort.m
 //  Comparator
 //
-//  Created by tongle on 2017/11/24.
-//  Copyright © 2017年 tong. All rights reserved.
+//  Created by iOS on 2017/11/24.
+//  Copyright © 2017年 iOS. All rights reserved.
 //
 
 #import "QuickSort.h"
